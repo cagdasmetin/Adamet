@@ -9,3 +9,4 @@ longform:
   sceneTemplate: Templates/Bölüm.md
   ignoredFiles: []
 ---
+
