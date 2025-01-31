@@ -5,6 +5,8 @@ longform:
   draftTitle: Kitaplar
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Değersiz Bir Hayat
+  sceneTemplate: Templates/Bölüm.md
   ignoredFiles: []
 ---
