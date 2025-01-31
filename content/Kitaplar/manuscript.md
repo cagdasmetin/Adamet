@@ -1,13 +1,11 @@
----
-Başlık: İktidar - Güç Sahibi Olmanın 48 Yasası
-Taslak: true
-tagler:
----
+# İktidar - Güç Sahibi Olmanın 48 Yasası
+
+
 2024-11-18  22:37
 
 ### Durum: #notes
 
-### Tagler: [[Robert Greene]] 
+### Tagler: Robert Greene 
 
 ## İktidar - Güç Sahibi Olmanın 48 Yasası
 

@@ -5,9 +5,7 @@ longform:
   draftTitle: Adamet
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - 01-02-2025
+  scenes: []
   sceneTemplate: Templates/Bölüm.md
   ignoredFiles: []
-title: 
 ---
