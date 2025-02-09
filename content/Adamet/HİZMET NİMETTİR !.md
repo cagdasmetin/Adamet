@@ -72,3 +72,9 @@ La ilahe illallah !
 #### DEAR GÖTTİFALLEN ! 18:00
 
 Gott weib ich will kein Engel sein !
+
+#### BOKU HARAM 18:32
+
+Diyanet İşleri Başkanı Ali Erbaş: "Sigara içmek haram. Bu davranışa bir son verelim."
+
+Arkadaş bir yerlerinden element uydurma lütfen. Dinde haram da bellidir helal de !
