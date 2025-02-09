@@ -71,4 +71,4 @@ La ilahe illallah !
 
 #### DEAR GÖTTİFALLEN ! 18:00
 
-Gott Weib ich will kein Engel sein !
+Gott weib ich will kein Engel sein !
