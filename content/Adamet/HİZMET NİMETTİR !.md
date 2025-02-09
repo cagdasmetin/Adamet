@@ -38,3 +38,9 @@ O zaman açmak lazım.. Bizim zihin açma yöntemlerimizden birisi yazmak diğer
 
 Ondan kafamız tıkandı bizim.. Zihin tıkandı kitlendi havasız ortam fena !
 
+#### DEVREDIŞIYIM 16:36
+Şekerli bir şeyler yemem lazım benim.
+
+#### LAZ BEYNİ 17:07
+
+Benim beynim laz beyni gibi.. Motor ya çok hızlı çalışıyor ya çok yavaş. Motorun önünde engel olunca tıkanıyor dönmüyor çark.
