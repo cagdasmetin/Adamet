@@ -5,8 +5,7 @@ longform:
   draftTitle: Adamet
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - HİZMET NİMETTİR !
+  scenes: []
   sceneTemplate: Templates/Bölüm.md
   ignoredFiles: []
 ---
