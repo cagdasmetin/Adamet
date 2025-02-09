@@ -7,9 +7,11 @@ tagler:
 
 ## ŞUBAT 2025
 
+
+---
 ### 09-02-2025 PAZAR
 
-#### START
+#### START 04:05
 
 Hadi yine yeniden.. Yine yeniden.. Yine yeni yine yeni yine yeniden sevv....
 Yüreğimdeki Fırtına..
@@ -26,3 +28,7 @@ Gündüz Güneş..
 Hadi beni yine yine sev
 Hadi beni yeni yeni sev
 Hadi yine yine sev Hadi yeni yeni sev Hadi beni yine yeni yine yeni yine yeniden sev !
+
+#### KAFAM TIKANDI 16:07
+
+O zaman açmak lazım.. Bizim zihin açma yöntemlerimizden birisi yazmak diğeri çıldırmaktı. Yazmak işe yaramayacaksa haa ?? Namaz... Namaz açardı aslında amma müsait değilim. O zaman kitap oku aslanım zihnini dağıtmak için.. Kitap okursan zihin tıkanıklığı açılır. iyi düşündün !
