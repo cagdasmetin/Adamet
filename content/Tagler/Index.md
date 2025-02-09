@@ -5,8 +5,7 @@ longform:
   draftTitle: Tagler
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Robert Greene
+  scenes: []
   sceneTemplate: Templates/Bölüm.md
   ignoredFiles: []
 ---
