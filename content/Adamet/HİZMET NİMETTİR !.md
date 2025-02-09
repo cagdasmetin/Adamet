@@ -32,3 +32,9 @@ Hadi yine yine sev Hadi yeni yeni sev Hadi beni yine yeni yine yeni yine yeniden
 #### KAFAM TIKANDI 16:07
 
 O zaman açmak lazım.. Bizim zihin açma yöntemlerimizden birisi yazmak diğeri çıldırmaktı. Yazmak işe yaramayacaksa haa ?? Namaz... Namaz açardı aslında amma müsait değilim. O zaman kitap oku aslanım zihnini dağıtmak için.. Kitap okursan zihin tıkanıklığı açılır. iyi düşündün !
+
+
+#### İÇERİSİ ÇOK HAVASIZ 16:16
+
+Ondan kafamız tıkandı bizim.. Zihin tıkandı kitlendi havasız ortam fena !
+
