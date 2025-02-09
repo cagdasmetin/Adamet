@@ -62,3 +62,10 @@ Ya Hamiyel Fukara ! Ya Badoo Ya Geylani !
 
 Ardından dinmeyen mutlu gerçekler
 Bir sabah gelecek kardan aydınlık !
+
+#### ALLAH SENİ HİÇ SATMAZ 17:38
+
+Nur Muhammed sallalah 
+Mafi kalbi Hayrullah 
+La ilahe illallah !
+
