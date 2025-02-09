@@ -51,3 +51,8 @@ Ondan kafamız tıkandı bizim.. Zihin tıkandı kitlendi havasız ortam fena !
 #### LAZ BEYNİ 17:07
 
 Benim beynim laz beyni gibi.. Motor ya çok hızlı çalışıyor ya çok yavaş. Motorun önünde engel olunca tıkanıyor dönmüyor çark.
+
+#### YA BADOO YA GEYLANİ ! 17:27
+
+Abdek muğri deke değlek ! Ya badoo ya Geylani !
+
