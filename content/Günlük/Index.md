@@ -5,8 +5,7 @@ longform:
   draftTitle: Günlük
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - undefined
+  scenes: []
   sceneTemplate: Templates/Blog.md
   ignoredFiles: []
 ---
