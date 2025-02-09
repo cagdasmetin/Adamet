@@ -55,4 +55,6 @@ Benim beynim laz beyni gibi.. Motor ya çok hızlı çalışıyor ya çok yavaş
 #### YA BADOO YA GEYLANİ ! 17:27
 
 Abdek muğri deke değlek ! Ya badoo ya Geylani !
+Hu Sahibel Imdadi ! YA Badoo Ya Geylani !
+Ya Hamiyel Fukara ! Ya Badoo Ya Geylani !
 
