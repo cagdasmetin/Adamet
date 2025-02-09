@@ -5,6 +5,13 @@ tagler:
 ---
 [onestream.live](https://player.onestream.live/embed/auth?token=MjcyNjMwNg==&type=up)
 
+## YAPILACAK İŞLER LİSTESİ
+
+- [ ] React öğrenmemiz gerekiyor. Özellikle dinamik web tasarımları için bu şart. NPM in gücünü keşfetmemiz lazım.
+- [ ] Domestik water şeması bugün yarın bitsin. 2025-02-09/10
+- [ ] Şematikler ve akıl diyagramları hatalı elde geçek ama daha hızlı. PC gelsin çift bilgisayar çalışak.
+
+
 ## ŞUBAT 2025
 
 
