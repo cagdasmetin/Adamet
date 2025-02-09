@@ -58,3 +58,7 @@ Abdek muğri deke değlek ! Ya badoo ya Geylani !
 Hu Sahibel Imdadi ! YA Badoo Ya Geylani !
 Ya Hamiyel Fukara ! Ya Badoo Ya Geylani !
 
+#### CÜMLE ŞEHİTLERİN OMUZLARINDA 17:33
+
+Ardından dinmeyen mutlu gerçekler
+Bir sabah gelecek kardan aydınlık !
