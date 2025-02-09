@@ -69,3 +69,6 @@ Nur Muhammed sallalah
 Mafi kalbi Hayrullah 
 La ilahe illallah !
 
+#### DEAR GÖTTİFALLEN !
+
+Gott Weib ich will kein Engel sein !
