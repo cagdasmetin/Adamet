@@ -6,7 +6,7 @@ longform:
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
-  sceneTemplate: Templates/Blog.md
+  sceneTemplate: Templates/TGG Blog.md
   ignoredFiles: []
 ---
 
