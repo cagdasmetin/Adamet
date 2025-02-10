@@ -1,8 +1,7 @@
 ---
 longform:
   format: scenes
-  title: Adamet
-  draftTitle: Adamet/Adamet/Index.md
+  title: TGG
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
